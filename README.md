@@ -1,1 +1,1 @@
-# AOS-sclipe
+# AOS-slick
